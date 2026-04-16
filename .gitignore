@@ -1,0 +1,22 @@
+# Unity generated folders
+Library/
+Temp/
+Logs/
+obj/
+Build/
+Builds/
+UserSettings/
+
+# Unity meta files (optional - only ignore if not using Asset tracking)
+# *.meta
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+.vsconfig
+
+# OS files
+.DS_Store
+Thumbs.db
